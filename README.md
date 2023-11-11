@@ -1,4 +1,3 @@
-# Devmobile
-Referente à cadeira de Desenvoerokajdlskajdlkawj
+# D.W
 
-Fiz este projeto por conta de um trabalho da faculdade bla bla bla
+Upload dos arquivos referentes ao projeto de fim de semestre da cadeira.
